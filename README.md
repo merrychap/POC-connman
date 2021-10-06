@@ -2,7 +2,7 @@
 
 ConnMan is an internet connection manager for embedded devices running the Linux operating system. 
 
-Github - https://github.com/meetecho/janus-gateway
+git - https://git.kernel.org/pub/scm/network/connman/connman.git/
 
 CVE ID | Score | Description
 -------|-------|-------------
